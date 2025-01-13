@@ -81,6 +81,79 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.01.13 @ 02:47 AM PST:
+		- Stable:
+			- actualserver: v24.12.0 --> v25.1.0
+			- audiobookshelf: v2.17.5 --> v2.17.7
+			- authentik: v2024.12.1 --> v2024.12.2
+			- autobrr: v1.56.1 --> v1.57.0
+			- bazarr: v1.5.0 --> v1.5.1
+			- borg-server: v2.6.5 --> v2.6.6
+			- calibre: v7.23.0 --> v7.24.0
+			- changedetection-io: v0.48.05 --> v0.48.06
+			- chroma: v0.6.0 --> v0.6.2
+			- clickhouse: v24.12.1.1614 --> v24.12.2.29
+			- cloudflared: v2024.12.2 --> v2025.1.0
+			- collabora: v24.04.11.1.1 --> v24.04.11.2.1
+			- drawio: v26.0.0 --> v26.0.4
+			- emby: v4.9.0.34 --> v4.9.0.35
+			- external-service: v3.21.0 --> v3.21.2
+			- flexget: v3.13.5 --> v3.13.11
+			- friendica: v2024.08.0 --> v2024.12.0
+			- ghostfolio: v2.132.0 --> v2.133.1
+			- gitea: v1.22.6 --> v1.23.1
+			- gravity: v0.19.1 --> v0.22.0
+			- home-assistant: v2024.12.5 --> v2025.1.2
+			- homebox: v0.16.0 --> v0.17.2
+			- homepage: v0.10.6 --> v0.10.9
+			- immich: v1.123.0 --> v1.124.2
+			- jackett: v0.22.1162 --> v0.22.1229
+			- jenkins: v2.491.0 --> v2.492.0
+			- komga: v1.15.1 --> v1.17.0
+			- linkwarden: v2.8.4 --> v2.9.2
+			- local-ai: v2.24.2 --> v2.25.0
+			- maintainerr: v2.5.0 --> v2.7.0
+			- mealie: v2.4.1 --> v2.4.2
+			- meshcentral: v1.1.35 --> v1.1.38
+			- metabase: v0.52.4 --> v0.52.5
+			- minecraft-java: v2024.12.1 --> v2025.1.0
+			- n8n: v1.73.1 --> v1.74.1
+			- netdata: v2.1.0 --> v2.1.1
+			- nexus-oss: v3.75.1 --> v3.76.0
+			- nocodb: v0.258.10 --> v0.260.1
+			- nvidia-gpu-exporter: v1.2.1 --> v1.3.0
+			- ollama: v0.5.4 --> v0.5.5
+			- ombi: v4.44.1 --> v4.47.1
+			- openhab: v4.3.0 --> v4.3.1
+			- owncast: v0.1.3 --> v0.2.0
+			- peanut: v4.3.0 --> v4.4.2
+			- plex: v1.41.3.9314 --> v1.41.3.9314-a0bfb8370
+			- plextraktsync: v0.32.5 --> v0.32.7
+			- qbitmanage: v4.1.14 --> v4.1.15
+			- qinglong: v2.17.13 --> v2.18.0
+			- radicale: v3.3.2.0 --> v3.3.3.0
+			- rdtclient: v2.0.92 --> v2.0.94
+			- redis: v7.4.1 --> v7.4.2
+			- romm: v3.6.0 --> v3.7.0
+			- shiori: v1.7.2 --> v1.7.4
+			- slink: v1.2.1 --> v1.4.6
+			- soft-serve: v0.8.1 --> v0.8.2
+			- sourcegraph: v5.11.0 --> v5.11.3601
+			- speedtest-tracker: v1.0.2 --> v1.0.3
+			- static-web-server: v2.34.0 --> v2.35.0
+			- syncthing: v1.28.1 --> v1.29.1
+			- tandoor-recipes: v1.5.24 --> v1.5.27
+			- traggo: v0.6.0 --> v0.6.1
+			- unifi: v8.6.9 --> v9.0.108
+			- unpoller: v2.12.0 --> v2.14.0
+			- verysync: v2.18.3 --> v2.20.1
+			- wallos: v2.42.2 --> v2.43.0
+			- zigbee2mqtt: v1.42.0 --> v2.0.0
+		- Incubator:
+			- docuseal: v1.8.4 --> v1.8.6
+			- pingvin-share: v1.7.2 --> v1.8.1
+		- Premium:
+			- authelia: v4.38.17 --> v4.38.18
 	- 2025.01.06 @ 05:33 PM PST:
 		- Stable:
 			- plex: v1.41.3.9314-a0bfb8370 --> v1.41.3.9314-a0bfb8370
