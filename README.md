@@ -81,6 +81,60 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.02.23 @ 03:48 PM PST:
+		- Stable:
+			- adguard-home: v0.107.56 --> v0.107.57
+			- adguardhome-sync: v0.6.17 --> v0.7.0
+			- audiobookshelf: v2.19.3 --> v2.19.4
+			- babybuddy: v2.7.0 --> v2.7.1
+			- changedetection-io: v0.49.2 --> v0.49.3
+			- clickhouse: v25.1.4.53 --> v25.1.5.31
+			- cloudcommander: latest --> v18.5.1
+			- code-server: v4.96.4 --> v4.97.2
+			- collabora: v24.04.12.3.1 --> v24.04.12.4.1
+			- ctfd: v3.7.5 --> v3.7.6
+			- deconz: v2.29.1 --> v2.29.2
+			- docker: v27.5.1 --> v28.0.0
+			- esphome: v2024.12.4 --> v2025.2.0
+			- fireflyiii: v6.1.25 --> v6.2.7
+			- firefox: v134.0.2 --> v135.0.1
+			- freshrss: v1.25.0 --> v1.26.0
+			- gitea: v1.23.3 --> v1.23.4
+			- hammond: v0.0.24 --> v0.0.25
+			- jackett: v0.22.1443 --> v0.22.1452
+			- jenkins: v2.497.0 --> v2.498.0
+			- joplin-server: v3.0.1 --> v3.3.2
+			- jupyter: v2025.2.19 --> v2025.2.22
+			- komga: v1.19.1 --> v1.20.0
+			- maintainerr: v2.9.0 --> v2.10.0
+			- memcached: v1.6.36 --> v1.6.37
+			- metube: v2025.2.7 --> v2025.2.20
+			- miniflux: v2.2.5 --> v2.2.6
+			- mongodb: v8.0.4 --> v8.0.5
+			- n8n: v1.80.0 --> v1.80.2
+			- navidrome: v0.54.4 --> v0.54.5
+			- neko: v2.8.13 --> v2.9.0
+			- netdata: v2.2.5 --> v2.2.6
+			- nocodb: v0.260.7 --> v0.262.0
+			- openhab: v4.3.2 --> v4.3.3
+			- peanut: v5.3.0 --> v5.4.2
+			- pihole: v2024.07.0 --> v2025.02.4
+			- piwigo: v15.3.0 --> v15.4.0
+			- plextraktsync: v0.34.2 --> v0.34.3
+			- portainer: v2.26.1 --> v2.27.0
+			- protonmail-bridge: v3.16.0 --> v3.17.0
+			- prowlarr: v1.29.2.4915 --> v1.31.2.4975
+			- rcon-webadmin: v0.14.1 --> latest
+			- shlink: v4.4.0 --> v4.4.4
+			- smtp-relay: v0.7.3 --> v0.7.4
+			- sourcegraph: v6.1.0 --> v6.1.376
+			- speedtest-tracker: v1.2.3 --> v1.2.4
+			- storj-node: v1.71.2 --> latest
+			- strapi: v4.25.11 --> v5.10.3
+			- unmanic: v0.2.7 --> v0.2.8
+			- wallos: v2.45.2 --> v2.46.0
+		- Premium:
+			- grafana: v11.5.1 --> v11.5.2
 	- 2025.02.19 @ 08:57 PM PST:
 		- Stable:
 			- actualserver: v25.1.0 --> v25.2.1
