@@ -81,6 +81,14 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.02.26 @ 01:42 PM PST:
+		- Stable:
+			- authentik: v2024.12.3 --> v2025.2.0
+			- immich: v1.126.1 --> v1.127.0
+			- jackett: v0.22.1458 --> v0.22.1459
+			- meshcentral: v1.1.38 --> v1.1.39
+			- overseerr: v1.33.2 --> v1.33.2
+			- pocketmine-mp: v5.25.0 --> v5.25.1
 	- 2025.02.25 @ 05:23 PM PST:
 		- Stable:
 			- overseerr: v1.33.2 --> v1.33.2
