@@ -81,6 +81,36 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.02.25 @ 05:23 PM PST:
+		- Stable:
+			- overseerr: v1.33.2 --> v1.33.2
+	- 2025.02.25 @ 05:19 PM PST:
+		- Stable:
+			- adguardhome-sync: v0.7.0 --> v0.7.1
+			- audiobookshelf: v2.19.4 --> v2.19.5
+			- fireflyiii: v6.2.7 --> v6.2.9
+			- flexget: v3.15.6 --> v3.15.11
+			- ghostfolio: v2.139.1 --> v2.140.0
+			- handbrake: v25.02.2 --> v25.02.3
+			- home-assistant: v2025.2.4 --> v2025.2.5
+			- jackett: v0.22.1452 --> v0.22.1458
+			- joplin-server: v3.3.2 --> v3.3.3
+			- jupyter: v2025.2.22 --> v2025.2.24
+			- linkding: v1.38.0 --> v1.38.1
+			- minecraft-java: v2025.2.0 --> v2025.2.1
+			- n8n: v1.80.2 --> v1.80.3
+			- nzbget: v24.5.0 --> v24.6.0
+			- ollama: v0.5.11 --> v0.5.12
+			- pihole: v2025.02.4 --> v2025.02.6
+			- qbitmanage: v4.1.17 --> v4.1.18
+			- qbitrr: v4.10.11 --> v4.10.12
+			- radarr: v5.18.4.9674 --> v5.19.3.9730
+			- sftpgo: v2.6.5 --> v2.6.6
+			- speedtest-tracker: v1.2.4 --> v1.2.5
+			- tdarr: v2.32.01 --> v2.33.01
+			- tdarr-node: v2.32.01 --> v2.33.01
+			- xen-orchestra: v5.170.0 --> v5.171.0
+			- xwiki: v17.0.0 --> v17.1.0
 	- 2025.02.23 @ 03:48 PM PST:
 		- Stable:
 			- adguard-home: v0.107.56 --> v0.107.57
