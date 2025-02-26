@@ -81,6 +81,9 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.02.25 @ 05:23 PM PST:
+		- Stable:
+			- overseerr: v1.33.2 --> v1.33.2
 	- 2025.02.25 @ 05:19 PM PST:
 		- Stable:
 			- adguardhome-sync: v0.7.0 --> v0.7.1
