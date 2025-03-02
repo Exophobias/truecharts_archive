@@ -81,6 +81,54 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.03.02 @ 10:50 AM PST:
+		- Stable:
+			- actualserver: v25.2.1 --> v25.3.0
+			- anything-llm: 728f6bf --> b0198c1
+			- authentik: v2025.2.0 --> v2025.2.1
+			- autobrr: v1.58.0 --> v1.59.0
+			- bitmagnet: v0.9.5 --> v0.10.0
+			- bookstack: v24.12.20241223 --> v25.02.20250226
+			- cloudflared: v2025.2.0 --> v2025.2.1
+			- docker: v28.0.0 --> v28.0.1
+			- emby: v4.9.0.38 --> v4.9.0.40
+			- esphome: v2025.2.0 --> v2025.2.1
+			- gamevault-backend: v13.1.3 --> v14.0.0
+			- ghostfolio: v2.140.0 --> v2.141.0
+			- homebridge: v2025.2.16 --> v2025.2.26
+			- homer: v25.02.1 --> v25.02.2
+			- immich: v1.127.0 --> v1.128.0
+			- ispy-agent-dvr: v6.1.8.0 --> v6.2.1.0
+			- jackett: v0.22.1459 --> v0.22.1466
+			- jenkins: v2.498.0 --> v2.499.0
+			- jupyter: v2025.2.24 --> v2025.2.26
+			- makemkv: v25.02.2 --> v25.02.3
+			- mariadb: v11.6.2 --> v11.7.2
+			- metabase: v0.53.3 --> v0.53.4
+			- misskey: v2025.2.0 --> v2025.2.1
+			- n8n: v1.80.3 --> v1.81.1
+			- nexus-oss: v3.77.1 --> v3.77.2
+			- nocodb: v0.262.0 --> v0.262.1
+			- onlyoffice-document-server: v8.3.0 --> v8.3.1
+			- openvscode-server: v1.96.4 --> v1.97.2
+			- oscam: v11869.0.0 --> v11870.0.0
+			- peanut: v5.4.2 --> v5.5.0
+			- pihole: v2025.02.6 --> v2025.02.7
+			- portainer: v2.27.0 --> v2.27.1
+			- qbitrr: v4.10.12 --> v4.10.13
+			- qinglong: v2.18.1 --> v2.18.2
+			- rstudio: v4.4.2 --> v4.4.3
+			- sourcegraph: v6.1.376 --> v6.1.1295
+			- strapi: v5.10.3 --> v5.10.4
+			- tauticord: v5.12.0 --> v5.12.1
+			- tdarr: v2.33.01 --> v2.34.01
+			- tdarr-node: v2.33.01 --> v2.34.01
+			- tinymediamanager: v5.1.2 --> v5.1.3
+			- vocechat-server: v0.4.0 --> v0.4.1
+			- wekan: v7.81.0 --> v7.82.0
+			- zwavejs2mqtt: v9.30.1 --> v9.31.0
+		- System:
+			- snapshot-controller: v8.2.0 --> v8.2.1
 	- 2025.02.26 @ 01:42 PM PST:
 		- Stable:
 			- authentik: v2024.12.3 --> v2025.2.0
