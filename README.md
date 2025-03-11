@@ -81,6 +81,79 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.03.11 @ 09:31 AM PDT:
+		- Stable:
+			- actualserver: v25.3.0 --> v25.3.1
+			- bookstack: v25.02.20250226 --> v25.02.20250309
+			- clickhouse: v25.1.5.31 --> v25.2.1.3085
+			- collabora: v24.04.12.4.1 --> v24.04.13.1.1
+			- cops: v3.5.4 --> v3.5.7
+			- ddns-go: v6.8.1 --> v6.9.0
+			- drawio: v26.0.9 --> v26.1.0
+			- emby: v4.9.0.40 --> v4.9.0.41
+			- esphome: v2025.2.1 --> v2025.2.2
+			- flexget: v3.15.11 --> v3.15.22
+			- flowise: v2.2.5 --> v2.2.7
+			- fluidd: v1.32.3 --> v1.32.6
+			- frigate: v0.14.1 --> v0.15.0
+			- gamevault-backend: v14.0.0 --> v14.1.0
+			- ghostfolio: v2.141.0 --> v2.144.0
+			- gitea: v1.23.4 --> v1.23.5
+			- hasty-paste: v1.10.0 --> v2.0.0
+			- home-assistant: v2025.2.5 --> v2025.3.1
+			- homebox: v0.17.2 --> v0.18.0
+			- homer: v25.02.2 --> v25.03.2
+			- immich: v1.128.0 --> v1.129.0
+			- ispy-agent-dvr: v6.2.1.0 --> v6.2.6.0
+			- jackett: v0.22.1466 --> v0.22.1576
+			- jenkins: v2.499.0 --> v2.500.0
+			- joplin-server: v3.3.3 --> v3.3.4
+			- jupyter: v2025.2.26 --> v2025.3.10
+			- kavita: v0.8.4 --> v0.8.5
+			- komga: v1.20.0 --> v1.21.1
+			- linkding: v1.38.1 --> v1.39.1
+			- mealie: v2.6.0 --> v2.7.1
+			- meshcentral: v1.1.39 --> v1.1.42
+			- metabase: v0.53.4 --> v0.53.5
+			- metube: v2025.2.20 --> v2025.3.7
+			- misskey: v2025.2.1 --> v2025.3.1
+			- mosquitto: v2.0.20 --> v2.0.21
+			- n8n: v1.81.1 --> v1.82.1
+			- nexus-oss: v3.77.2 --> v3.78.1
+			- nzbget: v24.6.0 --> v24.7.0
+			- ollama: v0.5.12 --> v0.5.13
+			- openvscode-server: v1.97.2 --> v1.98.0
+			- oscam: v11870.0.0 --> v11871.0.0
+			- overseerr: v1.33.2 --> v1.33.2
+			- peanut: v5.5.0 --> v5.6.0
+			- pgadmin: v9.0.0 --> v9.1.0
+			- photoprism: v20220121.0.0 --> v250228.0.0
+			- piaware: v9.0.0 --> v10.0.0
+			- pihole: v2025.02.7 --> v2025.03.0
+			- plextraktsync: v0.34.3 --> v0.34.5
+			- pocketmine-mp: v5.25.1 --> v5.25.2
+			- protonmail-bridge: v3.17.0 --> v3.18.0
+			- qbitmanage: v4.1.18 --> v4.2.0
+			- qbitrr: v4.10.13 --> v4.10.15
+			- radicale: v3.4.1.0 --> v3.4.1.1
+			- rdtclient: v2.0.97 --> v2.0.102
+			- romm: v3.7.0 --> v3.8.0
+			- seafile: v12.0.9 --> v12.0.10
+			- shlink: v4.4.4 --> v4.4.5
+			- sourcegraph: v6.1.1295 --> v6.1.2889
+			- splunk: v9.4.0 --> v9.4.1
+			- strapi: v5.10.4 --> v5.11.0
+			- tailscale: v1.80.0 --> v1.80.3
+			- tdarr: v2.34.01 --> v2.35.02
+			- tdarr-node: v2.34.01 --> v2.35.02
+			- tinymediamanager: v5.1.3 --> v5.1.4
+			- wallos: v2.46.0 --> v2.46.1
+			- wekan: v7.82.0 --> v7.83.0
+			- whisparr: v3.0.0.786 --> v3.0.0.828
+			- xen-orchestra: v5.171.0 --> v5.174.0
+			- zigbee2mqtt: v2.1.1 --> v2.1.3
+		- System:
+			- volsync: v0.11.0 --> v0.12.0
 	- 2025.03.02 @ 10:50 AM PST:
 		- Stable:
 			- actualserver: v25.2.1 --> v25.3.0

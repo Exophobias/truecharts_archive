@@ -1,0 +1,27 @@
+image:
+  repository: "ghcr.io/sct/overseerr"
+  tag: "develop@sha256:fa8cb17bc162ce5c6d76b1af142dea4b6cd8e6e518ac342af36b42b3dc684d36"
+  pullPolicy: "IfNotPresent"
+service:
+  main:
+    ports:
+      main:
+        port: 5055
+        targetPort: 5055
+persistence:
+  config:
+    enabled: true
+    mountPath: "/app/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            LOG_LEVEL: info
