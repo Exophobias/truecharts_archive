@@ -81,6 +81,51 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.03.15 @ 01:20 PM PDT:
+		- Stable:
+			- adguardhome-sync: v0.7.1 --> v0.7.2
+			- anything-llm: b0198c1 --> 4b97f79
+			- automatic-ripping-machine: v2.10.5 --> v2.11.0
+			- changedetection-io: v0.49.3 --> v0.49.4
+			- code-server: v4.97.2 --> v4.98.0
+			- collabora: v24.04.13.1.1 --> v24.04.13.2.1
+			- czkawka: v25.02.1 --> v25.03.1
+			- ddns-go: v6.9.0 --> v6.9.1
+			- dell-idrac-fan-controller: 51d23b0 --> 2f00908
+			- emby: v4.9.0.41 --> v4.9.0.42
+			- external-dns: v0.15.1 --> v0.16.1
+			- flexget: v3.15.22 --> v3.15.26
+			- freshrss: v1.26.0 --> v1.26.1
+			- gamevault-backend: v14.1.0 --> v14.1.1
+			- ghostfolio: v2.144.0 --> v2.145.1
+			- home-assistant: v2025.3.1 --> v2025.3.2
+			- ispy-agent-dvr: v6.2.6.0 --> v6.2.7.0
+			- jackett: v0.22.1576 --> v0.22.1615
+			- jellyseerr: v2.3.0 --> v2.5.0
+			- jenkins: v2.500.0 --> v2.501.0
+			- jupyter: v2025.3.10 --> v2025.3.14
+			- komga: v1.21.1 --> v1.21.2
+			- maintainerr: v2.10.0 --> v2.11.0
+			- matomo: v5.2.2 --> v5.3.0
+			- metabase: v0.53.5 --> v0.53.6
+			- minecraft-java: v2025.2.1 --> v2025.3.0
+			- n8n: v1.82.1 --> v1.83.2
+			- navidrome: v0.54.5 --> v0.55.0
+			- nocodb: v0.262.1 --> v0.262.2
+			- ollama: v0.5.13 --> v0.6.1
+			- papermerge: v3.3.1 --> v3.4.1
+			- piwigo: v15.4.0 --> v15.5.0
+			- plex: v1.41.4.9463-630c9f557 --> v1.41.5.9522-a96edc606
+			- qbitrr: v4.10.15 --> v4.10.16
+			- redmine: v6.0.3 --> v6.0.4
+			- resilio-sync: v3.0.0 --> v3.0.3
+			- solr: v9.8.0 --> v9.8.1
+			- strapi: v5.11.0 --> v5.11.1
+			- tandoor-recipes: v1.5.31 --> v1.5.32
+			- truecommand: v3.0.2 --> v3.1.0
+			- webgrabplus: v5.3.0 --> v5.3.1
+			- whisparr: v3.0.0.828 --> v3.0.0.850
+			- zwavejs2mqtt: v9.31.0 --> v9.32.0
 	- 2025.03.11 @ 09:31 AM PDT:
 		- Stable:
 			- actualserver: v25.3.0 --> v25.3.1
