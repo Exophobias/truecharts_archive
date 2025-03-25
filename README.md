@@ -81,6 +81,60 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.03.24 @ 05:10 PM PDT:
+		- Stable:
+			- anything-llm: 4b97f79 --> 9593fdb
+			- audiobookshelf: v2.19.5 --> v2.20.0
+			- authentik: v2025.2.1 --> v2025.2.2
+			- autobrr: v1.59.0 --> v1.60.0
+			- borg-server: v2.6.7 --> v2.6.8
+			- clickhouse: v25.2.1.3085 --> v25.2.2.39
+			- code-server: v4.98.0 --> v4.98.2
+			- drawio: v26.1.0 --> v26.1.1
+			- firefox: v135.0.1 --> v136.0.2
+			- fluidd: v1.32.6 --> v1.33.0
+			- gaseous-server: v1.7.10 --> v1.7.11
+			- ghostfolio: v2.145.1 --> v2.146.0
+			- home-assistant: v2025.3.2 --> v2025.3.3
+			- homepage: v0.10.9 --> v1.0.4
+			- homer: v25.03.2 --> v25.03.3
+			- jackett: v0.22.1615 --> v0.22.1669
+			- jellyseerr: v2.5.0 --> v2.5.1
+			- jenkins: v2.501.0 --> v2.502.0
+			- jupyter: v2025.3.14 --> v2025.3.20
+			- matomo: v5.3.0 --> v5.3.1
+			- mealie: v2.7.1 --> v2.8.0
+			- memcached: v1.6.37 --> v1.6.38
+			- metabase: v0.53.6 --> v0.53.7
+			- n8n: v1.83.2 --> v1.84.1
+			- navidrome: v0.55.0 --> v0.55.1
+			- netdata: v2.2.6 --> v2.3.0
+			- nexus-oss: v3.78.1 --> v3.78.2
+			- nzbget: v24.7.0 --> v24.8.0
+			- ollama: v0.6.1 --> v0.6.2
+			- oscam: v11871.0.0 --> v11876.0.0
+			- overseerr: v1.33.2 --> v1.33.2
+			- plex: v1.41.5.9522-a96edc606 --> v1.41.5.9522
+			- prowlarr: v1.31.2.4975 --> v1.33.0
+			- qbitmanage: v4.2.0 --> v4.2.1
+			- qbitrr: v4.10.16 --> v4.10.20
+			- qinglong: v2.18.2 --> v2.18.3
+			- radarr: v5.19.3.9730 --> v5.21.1.9799
+			- radicale: v3.4.1.1 --> v3.5.0.1
+			- sabnzbd: v4.4.1 --> v4.4.1
+			- servas: v0.4.1 --> v0.5.0
+			- sonarr: v4.0.13.2932 --> v4.0.14.2938
+			- sourcegraph: v6.1.2889 --> v6.1.4020
+			- speedtest-tracker: v1.2.5 --> v1.3.0
+			- strapi: v5.11.1 --> v5.11.3
+			- syncthing: v1.29.2 --> v1.29.3
+			- tandoor-recipes: v1.5.32 --> v1.5.33
+			- tautulli: dead007 --> ce4719f
+			- theme-park: v1.18.0 --> v1.20.0
+			- vocechat-server: v0.4.1 --> v0.4.2
+			- wallos: v2.46.1 --> v2.48.0
+			- whisparr: v3.0.0.850 --> v3.0.0.877
+			- zwavejs2mqtt: v9.32.0 --> v9.33.1
 	- 2025.03.15 @ 01:20 PM PDT:
 		- Stable:
 			- adguardhome-sync: v0.7.1 --> v0.7.2
