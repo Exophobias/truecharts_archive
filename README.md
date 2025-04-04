@@ -81,6 +81,104 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.04.04 @ 03:22 PM PDT:
+		- Stable:
+			- adguard-home: v0.107.57 --> v0.107.59
+			- authentik: v2025.2.2 --> v2025.2.3
+			- automatic-ripping-machine: v2.11.0 --> v2.12.1
+			- baserow: v1.31.1 --> v1.32.5
+			- calibre: v7.26.0 --> v8.2.1
+			- changedetection-io: v0.49.4 --> v0.49.12
+			- clickhouse: v25.2.2.39 --> v25.3.2.39
+			- cloudflared: v2025.2.1 --> v2025.4.0
+			- dashdot: v5.9.0 --> v5.9.2
+			- digikam: v8.5.0 --> v8.6.0
+			- discordgsm: v2.18.0 --> v2.19.0
+			- docker: v28.0.1 --> v28.0.4
+			- drawio: v26.1.1 --> v26.2.2
+			- emby: v4.9.0.42 --> v4.9.0.43
+			- esphome: v2025.2.2 --> v2025.3.3
+			- fileflows: v25.02.0 --> v25.04.0
+			- fireflyiii: v6.2.9 --> v6.2.10
+			- firefox: v136.0.2 --> v136.0.4
+			- flexget: v3.15.26 --> v3.15.30
+			- ghostfolio: v2.146.0 --> v2.149.0
+			- gitea: v1.23.5 --> v1.23.6
+			- home-assistant: v2025.3.3 --> v2025.4.0
+			- homepage: v1.0.4 --> v1.1.1
+			- humhub: v1.16.2 --> v1.17.1
+			- immich: v1.129.0 --> v1.131.3
+			- ipfs: v0.33.2 --> v0.34.1
+			- jackett: v0.22.1669 --> v0.22.1726
+			- jenkins: v2.502.0 --> v2.504.0
+			- joplin-server: v3.3.4 --> v3.3.13
+			- jupyter: v2025.3.20 --> v2025.4.4
+			- kanboard: v1.2.43 --> v1.2.44
+			- kometa: v2.1.0 --> v2.2.0
+			- lidarr: v2.9.6.4552 --> v2.10.3.4602
+			- local-ai: v2.26.0 --> v2.27.0
+			- maintainerr: v2.11.0 --> v2.13.1
+			- meshcentral: v1.1.42 --> v1.1.43
+			- metabase: v0.53.7 --> v0.54.1
+			- metube: v2025.3.7 --> v2025.4.1
+			- minecraft-bedrock: latest --> v2025.4.0
+			- minecraft-java: v2025.3.0 --> v2025.4.0
+			- miniflux: v2.2.6 --> v2.2.7
+			- mkvtoolnix: v25.02.1 --> v25.03.1
+			- mongodb: v8.0.5 --> v8.0.6
+			- muse: v2.10.1 --> v2.11.0
+			- mymediaforalexa: v1.3.152.1 --> v1.3.152.2
+			- n8n: v1.84.1 --> v1.86.0
+			- netdata: v2.3.0 --> v2.3.2
+			- nexus-oss: v3.78.2 --> v3.79.0
+			- nocodb: v0.262.2 --> v0.262.5
+			- ollama: v0.6.2 --> v0.6.4
+			- onlyoffice-document-server: v8.3.1 --> v8.3.2
+			- openhab: v4.3.3 --> v4.3.4
+			- openvscode-server: v1.98.0 --> v1.98.2
+			- oscam: v11876.0.0 --> v11878.0.0
+			- overseerr: v1.33.2 --> v1.33.2
+			- peanut: v5.6.0 --> v5.6.1
+			- pgadmin: v9.1.0 --> v9.2.0
+			- photoprism: v250228.0.0 --> v250321.0.0
+			- pihole: v2025.03.0 --> v2025.04.0
+			- plextraktsync: v0.34.5 --> v0.34.7
+			- pocketmine-mp: v5.25.2 --> v5.27.0
+			- portainer: v2.27.1 --> v2.28.1
+			- protonmail-bridge: v3.18.0 --> v3.19.0
+			- redisinsight: v2.66.0 --> v2.68.0
+			- sabnzbd: v4.4.1 --> v4.5.0
+			- satisfactory: v1.9.5 --> v1.9.7
+			- seafile: v12.0.10 --> v12.0.11
+			- servas: v0.5.0 --> v0.5.1
+			- shlink: v4.4.5 --> v4.4.6
+			- slink: v1.4.6 --> v1.4.8
+			- soft-serve: v0.8.2 --> v0.8.5
+			- sourcegraph: v6.1.4020 --> v6.2.0
+			- stash: v0.27.2 --> v0.28.1
+			- static-web-server: v2.36.0 --> v2.36.1
+			- strapi: v5.11.3 --> v5.12.1
+			- syncthing: v1.29.3 --> v1.29.4
+			- tailscale: v1.80.3 --> v1.82.0
+			- tandoor-recipes: v1.5.33 --> v1.5.34
+			- tdarr: v2.35.02 --> v2.37.01
+			- tdarr-node: v2.35.02 --> v2.37.01
+			- twofauth: v5.4.3 --> v5.5.0
+			- vocechat-server: v0.4.2 --> v0.4.3
+			- wallos: v2.48.0 --> v2.48.1
+			- watchyourlan: v2.0.4 --> v2.1.2
+			- wekan: v7.83.0 --> v7.84.0
+			- whisparr: v3.0.0.877 --> v3.0.0.936
+			- wikijs: v2.5.306 --> v2.5.307
+			- xen-orchestra: v5.174.0 --> v5.175.0
+			- xwiki: v17.1.0 --> v17.2.0
+			- zigbee2mqtt: v2.1.3 --> v2.2.0
+			- zwavejs2mqtt: v9.33.1 --> v10.1.4
+		- System:
+			- volsync: v0.12.0 --> v0.12.1
+		- Premium:
+			- grafana: v11.5.2 --> v11.6.0
+			- nextcloud: v30.0.0 --> v31.0.2
 	- 2025.03.24 @ 05:10 PM PDT:
 		- Stable:
 			- anything-llm: 4b97f79 --> 9593fdb
