@@ -81,6 +81,30 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.04.09 @ 09:22 AM PDT:
+		- Stable:
+			- actualserver: v25.3.1 --> v25.4.0
+			- anything-llm: 9593fdb --> c046572
+			- drawio: v26.2.2 --> v26.2.8
+			- flexget: v3.15.30 --> v3.15.31
+			- fluidd: v1.33.0 --> v1.34.1
+			- ghostfolio: v2.149.0 --> v2.150.0
+			- home-assistant: v2025.4.0 --> v2025.4.1
+			- homer: v25.03.3 --> v25.04.1
+			- jackett: v0.22.1726 --> v0.22.1740
+			- jellyfin: v10.10.6 --> v10.10.7
+			- jellyseerr: v2.5.1 --> v2.5.2
+			- monero-node: v0.18.3.4 --> v0.18.4.0
+			- n8n: v1.86.0 --> v1.86.1
+			- navidrome: v0.55.1 --> v0.55.2
+			- overseerr: v1.33.2 --> v1.33.2
+			- pocketmine-mp: v5.27.0 --> v5.27.1
+			- radarr: v5.21.1.9799 --> v5.22.1.9832
+			- smtp-relay: v0.7.4 --> v0.7.5
+			- strapi: v5.12.1 --> v5.12.3
+			- tautulli: ce4719f --> 1381bdf
+			- whisparr: v3.0.0.936 --> v3.0.0.968
+			- zigbee2mqtt: v2.2.0 --> v2.2.1
 	- 2025.04.04 @ 03:22 PM PDT:
 		- Stable:
 			- adguard-home: v0.107.57 --> v0.107.59
