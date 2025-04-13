@@ -81,6 +81,36 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.04.13 @ 12:42 AM PDT:
+		- Stable:
+			- anything-llm: c046572 --> 1b3c392
+			- calibre: v8.2.1 --> v8.2.100
+			- changedetection-io: v0.49.12 --> v0.49.13
+			- cloudcommander: v18.5.1 --> v18.5.2
+			- emby: v4.9.0.44 --> v4.9.0.47
+			- ghostfolio: v2.150.0 --> v2.151.0
+			- home-assistant: v2025.4.1 --> v2025.4.2
+			- ispy-agent-dvr: v6.2.8.0 --> v6.2.9.0
+			- jackett: v0.22.1756 --> v0.22.1767
+			- jupyter: v2025.4.10 --> v2025.4.12
+			- makemkv: v25.02.3 --> v25.04.1
+			- metube: v2025.4.1 --> v2025.4.11
+			- neko: v3.0.3 --> v3.0.4
+			- nexus-oss: v3.79.0 --> v3.79.1
+			- outline: v0.82.0 --> v0.83.0
+			- peanut: v5.7.0 --> v5.7.1
+			- prowlarr: v1.33.0 --> v1.33.3.5008
+			- rdtclient: v2.0.102 --> v2.0.104
+			- rstudio: v4.4.3 --> v4.5.0
+			- sabnzbd: v4.5.0 --> v4.5.1
+			- smtp-relay: v0.7.6 --> v0.7.7
+			- speedtest-tracker: v1.3.0 --> v1.4.0
+			- syncthing: v1.29.4 --> v1.29.5
+			- tautulli: 1381bdf --> d40da33
+			- tinymediamanager: v5.1.4 --> v5.1.5
+			- twofauth: v5.5.0 --> v5.5.2
+			- whisparr: v3.0.0.968 --> v3.0.0.996
+			- xen-orchestra: v5.175.0 --> v5.176.0
 	- 2025.04.10 @ 09:54 AM PDT:
 		- Stable:
 			- atuin: v18.4.0 --> v18.5.0
