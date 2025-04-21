@@ -81,6 +81,66 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.04.20 @ 06:29 PM PDT:
+		- Stable:
+			- adguard-home: v0.107.59 --> v0.107.60
+			- adguardhome-sync: v0.7.2 --> v0.7.3
+			- anything-llm: 1b3c392 --> 983e038
+			- autobrr: v1.60.0 --> v1.61.0
+			- borg-server: v2.6.8 --> v2.6.11
+			- calibre: v8.2.100 --> v8.3.0
+			- changedetection-io: v0.49.13 --> v0.49.15
+			- chroma: v1.0.4 --> v1.0.5
+			- code-server: v4.99.1 --> v4.99.3
+			- collabora: v24.04.13.2.1 --> v24.04.13.3.1
+			- ctfd: v3.7.6 --> v3.7.7
+			- czkawka: v25.03.1 --> v25.04.1
+			- deconz: v2.29.3 --> v2.29.4
+			- docker: v28.0.4 --> v28.1.1
+			- emby: v4.9.0.47 --> v4.9.0.50
+			- esphome: v2025.3.3 --> v2025.4.0
+			- flexget: v3.15.31 --> v3.15.34
+			- ghostfolio: v2.151.0 --> v2.153.0
+			- grocy: v4.4.1 --> nightly
+			- ispy-agent-dvr: v6.2.9.0 --> v6.3.4.0
+			- jackett: v0.22.1767 --> v0.22.1797
+			- jenkins: v2.505.0 --> v2.506.0
+			- jupyter: v2025.4.12 --> v2025.4.14
+			- kavita: v0.8.5 --> v0.8.6
+			- local-ai: v2.27.0 --> v2.28.0
+			- maintainerr: v2.13.1 --> v2.14.0
+			- metabase: v0.54.2 --> v0.54.3
+			- metube: v2025.4.11 --> v2025.4.16
+			- mongodb: v8.0.6 --> v8.0.8
+			- mylar: vnightly-be4fced5-ls458 --> nightly
+			- mysql-workbench: v8.0.41 --> v8.0.42
+			- n8n: v1.88.0 --> v1.89.2
+			- netdata: v2.3.2 --> v2.4.0
+			- onlyoffice-document-server: v8.3.2 --> v8.3.3
+			- overseerr: v1.33.2 --> v1.33.2
+			- paperless-ngx: v2.15.1 --> v2.15.3
+			- peanut: v5.7.1 --> v5.7.2
+			- plex: v1.41.6.9685 --> v1.41.6.9685
+			- plexripper: v0.30.0 --> v0.31.0
+			- portainer: v2.28.1 --> v2.29.0
+			- prowlarr: v1.33.3.5008 --> v1.34.1.5021
+			- radarr: v5.22.1.9832 --> v5.22.3.9889
+			- rdtclient: v2.0.104 --> v2.0.108
+			- readarr: v0.4.7.2718 --> v0.4.15.2787
+			- slink: v1.4.8 --> v1.4.9
+			- sonarr: v4.0.14.2938 --> v4.0.14.2938
+			- sourcegraph: v6.2.1106 --> v6.2.2553
+			- speedtest-tracker: v1.4.0 --> v1.4.2
+			- strapi: v5.12.3 --> v5.12.5
+			- tdarr: v2.37.01 --> v2.40.01
+			- tdarr-node: v2.37.01 --> v2.40.01
+			- theme-park: v1.20.0 --> v1.20.1
+			- wallos: v2.48.1 --> v2.52.0
+			- wordpress: v6.7.2 --> v6.8.0
+			- xwiki: v17.2.0 --> v17.2.2
+			- zwavejs2mqtt: v10.1.5 --> v10.2.0
+		- Premium:
+			- blocky: development --> v0.25.0
 	- 2025.04.13 @ 12:42 AM PDT:
 		- Stable:
 			- anything-llm: c046572 --> 1b3c392
