@@ -81,6 +81,9 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.04.20 @ 07:10 PM PDT:
+		- Premium:
+			- traefik: v3.2.3 --> latest
 	- 2025.04.20 @ 06:29 PM PDT:
 		- Stable:
 			- adguard-home: v0.107.59 --> v0.107.60
