@@ -81,6 +81,71 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.05.14 @ 09:46 AM PDT:
+		- Stable:
+			- arksurvivalevolved: v1.6.62 --> latest
+			- baserow: v1.33.0 --> v1.33.2
+			- bazarr: v1.5.1 --> v1.5.2
+			- calibre: v8.3.0 --> v8.4.0
+			- changedetection-io: v0.49.16 --> v0.49.17
+			- chroma: v1.0.8 --> v1.0.9
+			- clickhouse: v25.4.2.31 --> v25.4.3.22
+			- ddns-go: v6.9.1 --> v6.9.2
+			- deconz: v2.30.0 --> v2.30.2
+			- domoticz: v2024.7.0 --> v2025.1.0
+			- drawio: v26.2.15 --> v27.0.2
+			- emby: v4.9.0.51 --> v4.9.0.53
+			- esphome: v2025.4.1 --> v2025.4.2
+			- fileflows: v25.04.0 --> v25.05.0
+			- firefox: v136.0.4 --> v138.0.1
+			- fireshare: v1.2.21 --> v1.2.23
+			- flexget: v3.15.38 --> v3.15.40
+			- fluidd: v1.34.1 --> v1.34.2
+			- ghostfolio: v2.159.0 --> v2.161.0
+			- healthchecks: v3.9.20251230 --> v3.10.20250512
+			- home-assistant: v2025.4.4 --> v2025.5.1
+			- homer: v25.04.1 --> v25.05.1
+			- jackett: v0.22.1867 --> v0.22.1891
+			- jenkins: v2.508.0 --> v2.509.0
+			- jupyter: v2025.5.5 --> v2025.5.12
+			- kanboard: v1.2.44 --> v1.2.45
+			- lanraragi: v0.9.30 --> v0.9.40
+			- metabase: v0.54.5 --> v0.54.6
+			- misskey: v2025.4.1 --> v2025.5.0
+			- n8n: v1.92.1 --> v1.93.0
+			- neko: v3.0.4 --> v3.0.5
+			- netdata: v2.5.0 --> v2.5.1
+			- nexus-oss: v3.79.1 --> v3.80.0
+			- nocodb: v0.263.0 --> v0.263.1
+			- nzbget: v24.8.0 --> v25.0.0
+			- ollama: v0.6.7 --> v0.6.8
+			- openvscode-server: v1.98.2 --> v1.99.3
+			- outline: v0.83.0 --> v0.84.0
+			- overseerr: v1.33.2 --> v1.33.2
+			- owncast: v0.2.2 --> v0.2.3
+			- papermerge: v3.4.1 --> v3.5.1
+			- peanut: v5.7.4 --> v5.7.5
+			- plextraktsync: v0.34.9 --> v0.34.10
+			- pocketmine-mp: v5.27.1 --> v5.28.0
+			- prowlarr: af8cb41 --> 9f368d4
+			- qbitmanage: v4.2.2 --> v4.3.0
+			- qinglong: v2.18.3 --> v2.19.0
+			- radarr: v5.23.1.9914 --> rolling
+			- redis: v7.4.3 --> v8.0.1
+			- sabnzbd: ec9f350 --> 0be90ff
+			- sonarr: v4.0.14.2938 --> v4.0.14.2938
+			- strapi: v5.12.7 --> v5.13.0
+			- syncthing: v1.29.5 --> v1.29.6
+			- syslog-ng: v4.8.0 --> v4.8.2
+			- tautulli: d40da33 --> 013f4aa
+			- tinymediamanager: v5.1.5 --> v5.1.6
+			- wallos: v3.0.2 --> v3.1.0
+			- whisparr: v3.0.0.996 --> v3.0.0.1033
+			- zwavejs2mqtt: v10.3.3 --> v10.4.2
+		- System:
+			- kubernetes-reflector: v7.1.217 --> v9.1.7
+		- Premium:
+			- grafana: v11.6.1 --> v12.0.0
 	- 2025.05.06 @ 09:10 PM PDT:
 		- Stable:
 			- actualserver: v25.4.0 --> v25.5.0
