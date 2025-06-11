@@ -81,6 +81,91 @@ Now you should be able to update your applications again.
     - unpackerr: v0.14.5 *(Updated: 2024.08.05)*
 
 - ### Changelog:
+	- 2025.06.10 @ 05:25 PM PDT:
+		- Stable:
+			- actualserver: v25.5.0 --> v25.6.1
+			- anonaddy: v1.3.1 --> v1.3.2
+			- anything-llm: c560a5f --> 6444459
+			- appdaemon: v4.5.2 --> v4.5.10
+			- audiobookshelf: v2.23.0 --> v2.24.0
+			- authentik: v2025.4.1 --> v2025.6.1
+			- autobrr: v1.62.0 --> v1.63.0
+			- automatic-ripping-machine: v2.13.0 --> v2.15.1
+			- baserow: v1.33.3 --> v1.33.4
+			- bookstack: v25.02.20250309 --> v25.05.20250531
+			- borg-server: v2.6.11 --> v2.6.12
+			- changedetection-io: v0.49.18 --> v0.50.2
+			- chroma: v1.0.10 --> v1.0.12
+			- clickhouse: v25.5.1.2782 --> v25.5.2.47
+			- code-server: v4.100.2 --> v4.100.3
+			- collabora: v25.04.2.1.1 --> v25.04.2.2.1
+			- ddns-go: v6.9.3 --> v6.9.5
+			- docker: v28.1.1 --> v28.2.2
+			- esphome: v2025.5.1 --> v2025.5.2
+			- external-service: v3.21.3 --> v3.22.0
+			- firefox: v138.0.4 --> v139.0.1
+			- flaresolverr: v3.3.21 --> v3.3.24
+			- flexget: v3.16.0 --> v3.16.3
+			- flood: v4.9.3 --> v4.9.5
+			- flowise: v3.0.0 --> v3.0.1
+			- freshrss: v1.26.2 --> v1.26.3
+			- ghostfolio: v2.163.0 --> v2.169.0
+			- gokapi: v1.9.6 --> v2.0.1
+			- healthchecks: v3.10.20250526 --> v3.10.20250609
+			- homepage: v1.2.0 --> v1.3.2
+			- impostor-server: v1.10.2 --> v1.10.3
+			- jackett: v0.22.1971 --> v0.22.2004
+			- jellyseerr: v2.5.2 --> v2.6.0
+			- jenkins: v2.512.0 --> v2.513.0
+			- jupyter: v2025.5.30 --> v2025.6.2
+			- kasm: v1.16.1 --> v1.17.0
+			- lanraragi: v0.9.40 --> v0.9.41
+			- lidarr: v2.11.2.4629 --> v2.12.4.4658
+			- maintainerr: v2.15.0 --> v2.17.0
+			- metabase: v0.54.10 --> v0.55.1
+			- metube: v2025.5.27 --> v2025.6.10
+			- misskey: v2025.5.0 --> v2025.6.0
+			- mongodb: v8.0.9 --> v8.0.10
+			- n8n: v1.95.2 --> v1.97.1
+			- navidrome: v0.55.2 --> v0.56.1
+			- netdata: v2.5.2 --> v2.5.3
+			- ntfy: v2.11.0 --> v2.12.0
+			- nzbhydra: v7.14.0 --> v7.14.3
+			- ollama: v0.8.0 --> v0.9.0
+			- paperless-ngx: v2.16.2 --> v2.16.3
+			- pgadmin: v9.3.0 --> v9.4.0
+			- pihole: v2025.04.0 --> v2025.06.1
+			- plex: 4148d59 --> 25f19ea
+			- plextraktsync: v0.34.10 --> v0.34.11
+			- prowlarr: 3f96093 --> d3ae020
+			- proxmox-backup-server: v3.3.2 --> v3.4.1
+			- qbitrr: v4.10.21 --> v4.10.24
+			- radarr: 9440a0c --> 0c89557
+			- requestrr: v2.1.7 --> v2.1.8
+			- restic-rest-server: v0.13.0 --> v0.14.0
+			- romm: v3.9.0 --> v3.10.0
+			- rss-bridge: v2025.1.26 --> v2025.6.3
+			- seafile: v12.0.11 --> v12.0.14
+			- smokeping: v2.8.2 --> v2.9.0
+			- sonarr: 0cdecee --> f7baf78
+			- sourcegraph: v6.3.4167 --> v6.4.1203
+			- splunk: v9.4.2 --> v9.4.3
+			- static-web-server: v2.36.1 --> v2.37.0
+			- strapi: v5.13.1 --> v5.15.0
+			- syncthing: v1.29.6 --> v1.29.7
+			- tdarr: v2.40.01 --> v2.42.01
+			- tdarr-node: v2.40.01 --> v2.42.01
+			- theme-park: v1.20.1 --> v1.21.0
+			- timetagger: v24.12.2 --> v25.06.1
+			- wallos: v3.1.1 --> v3.3.0
+			- whisparr: v3.0.0.1038 --> v3.0.0.1103
+			- wizarr: v2025.5.1 --> v2025.6.3
+			- xen-orchestra: v5.177.2 --> v5.178.2
+			- zigbee2mqtt: v2.3.0 --> v2.4.0
+			- znc: v1.9.1 --> v1.10.0
+			- zwavejs2mqtt: v10.5.1 --> v10.6.1
+		- System:
+			- kubernetes-reflector: v9.1.7 --> v9.1.12
 	- 2025.06.01 @ 12:58 PM PDT:
 		- Stable:
 			- adguard-home: v0.107.61 --> v0.107.62

@@ -1,0 +1,45 @@
+image:
+  repository: "docker.io/wiserain/flexget"
+  pullPolicy: "IfNotPresent"
+  tag: "3.16.3@sha256:ff44f46d08b81031320ea6c70378e257a2db58c4eb4d32754bd860935e4a9e8a"
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env:
+            FG_LOG_LEVEL: info
+            FG_LOG_FILE: flexget.log
+            FG_WEBUI_PASSWD: "jLeT78KBDPW"
+service:
+  main:
+    ports:
+      main:
+        port: 10174
+        targetPort: 5050
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  data:
+    enabled: true
+    mountPath: /data
+portal:
+  open:
+    enabled: true
